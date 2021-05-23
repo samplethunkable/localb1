@@ -1,0 +1,54 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Test",
+      "publisher": "Mohara",
+      "tray_image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/31d59720535450dcf52c683108b42db5/1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/31d59720535450dcf52c683108b42db5/1.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/04ce4fa00c51d9d171949946f6536c7e/2.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/5b6e082c45a8567cb395f5ed1f19a47d/3.webp",
+          "emojis": ["??","??"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Test",
+      "publisher": "Mohara",
+      "tray_image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/31d59720535450dcf52c683108b42db5/1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/31d59720535450dcf52c683108b42db5/1.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/04ce4fa00c51d9d171949946f6536c7e/2.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/5b6e082c45a8567cb395f5ed1f19a47d/3.webp",
+          "emojis": ["??","??"]
+        }
+      ]
+    }
+  ]
+}
