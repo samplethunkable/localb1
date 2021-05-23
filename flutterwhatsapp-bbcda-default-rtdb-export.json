@@ -1,0 +1,94 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Test",
+      "publisher": "Mohara",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/1.webp?alt=media&token=e15951bf-52a4-4c7d-9568-7483355ddbe7",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/1.webp?alt=media&token=e15951bf-52a4-4c7d-9568-7483355ddbe7",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/2.webp?alt=media&token=c256003e-2c52-4d9f-85d9-37717a87a748",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/3.webp?alt=media&token=1d430755-b8f3-4c0a-83e6-1b35ff77b7a4",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/4.webp?alt=media&token=cbed819a-8dad-49c7-9914-d24ed5f63302",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/5.webp?alt=media&token=db1624bb-ca9d-46a2-bd19-6e9a2061ea39",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/6.webp?alt=media&token=77cf2fc3-0f65-459d-a0b0-e6bc00256795",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/7.webp?alt=media&token=16e53d3a-1a75-49b7-86fd-2c5349e319d2",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/8.webp?alt=media&token=de038c2a-b518-4320-a0eb-c542a8d6450b",
+          "emojis": ["??","??"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Test",
+      "publisher": "Mohara",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/9.webp?alt=media&token=92faaef6-e950-4497-b8a5-6942e1e5872a",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/9.webp?alt=media&token=92faaef6-e950-4497-b8a5-6942e1e5872a",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/10.webp?alt=media&token=c93ef5e8-f3e0-440b-83c7-9c5a2123fa24",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/11.webp?alt=media&token=b6d8aee2-ccec-49a1-b5c3-96fd07b4f048",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/12.webp?alt=media&token=702ca541-999b-4961-bbf6-6907d6cffef8",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/13.webp?alt=media&token=697a5d50-7b55-496d-8143-369ddb788951",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/14.webp?alt=media&token=03fa1125-1404-46fd-941a-69b88b3ee1e0",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/15.webp?alt=media&token=0a8dc529-a116-4ff2-bc27-87c878ce1032",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/16.webp?alt=media&token=ff62d0d4-9f16-4f8f-a8d0-2104d83b4fb5",
+          "emojis": ["??","??"]
+        }
+      ]
+    }
+  ]
+}
