@@ -1,0 +1,122 @@
+{
+  "android_play_store_link": "http://play.google.com/store/apps/details?id=com.gamacrack.trending_stickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Test1",
+      "publisher": "Mohara",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Test2",
+      "publisher": "Mohara",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/flutterwhatsapp-bbcda.appspot.com/o/stick1.webp?alt=media&token=f2217840-6c26-42c6-a192-a6c36b780d9b",
+          "emojis": ["??","??"]
+        }
+      ]
+    }
+  ]
+}
