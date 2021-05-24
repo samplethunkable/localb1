@@ -1,0 +1,48 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.tamilanstickers.cookwithcomali",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Cuppy",
+      "publisher": "Jane Doe",
+      "tray_image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/b520934d433071370a9fe84e72769a29/icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/a38c98f19f392ec0f380686344cdd6d7/11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/04682ecfe91bfe78d7ae13dd6fd5e19c/22.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/aecbb617560b147c8158ecf4faa3b1c6/33.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/10ff2006a44af786b6e5076cad5a0670/44.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        }
+      ]
+    }
+  ]
+}
