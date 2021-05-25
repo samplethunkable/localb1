@@ -151,52 +151,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "identifier": "3",
-            "name": "animi",
-            "publisher": "Zeptoa",
-            "tray_image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/9c050ebe1aac62ba494f46e1d86c1ec8/loading.webp",
-            "image_data_version": "100",
-            "avoid_cache": false,
-            "publisher_email": "",
-            "publisher_website": "",
-            "privacy_policy_website": "",
-            "license_agreement_website": "",
-            "animated_sticker_pack": true,
-            "stickers": [{
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/9c050ebe1aac62ba494f46e1d86c1ec8/loading.webp",
-                    "emojis": [
-                        "🥰",
-                        "😘",
-                        "❤️"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/9c050ebe1aac62ba494f46e1d86c1ec8/loading.webp",
-                    "emojis": [
-                        "✊",
-                        "💪",
-                        "🙏"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/9c050ebe1aac62ba494f46e1d86c1ec8/loading.webp",
-                    "emojis": [
-                        "❤️",
-                        "🥰",
-                        "💕"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/9c050ebe1aac62ba494f46e1d86c1ec8/loading.webp",
-                    "emojis": [
-                        "🖐",
-                        "🙌",
-                        "✋"
-                    ]
-                }
-            ]
         }
     
     ]
