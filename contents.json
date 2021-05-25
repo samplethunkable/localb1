@@ -3,7 +3,7 @@
     "ios_app_store_link": "https://play.google.com/store/apps/details?id=com.zeptoa.whatsappstickers",
     "sticker_packs": [{
             "identifier": "1",
-            "name": "Emoji",
+            "name": "TEST 1",
             "publisher": "Mr.Sticker",
             "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/1/1.png",
             "image_data_version": "1",
@@ -45,7 +45,7 @@
         },
         {
             "identifier": "2",
-            "name": "i am",
+            "name": "TEST 2",
             "publisher": "Mr.Sticker",
             "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/2/1.png",
             "image_data_version": "1",
