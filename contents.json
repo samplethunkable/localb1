@@ -5,7 +5,7 @@
             "identifier": "1",
             "name": "Emoji",
             "publisher": "Mr.Sticker",
-            "tray_image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/b520934d433071370a9fe84e72769a29/icon.png",
+            "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/1/1.png",
             "image_data_version": "1",
             "avoid_cache": false,
             "publisher_email": "",
@@ -14,103 +14,40 @@
             "license_agreement_website": "",
             "animated_sticker_pack": false,
             "stickers": [{
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/a38c98f19f392ec0f380686344cdd6d7/11.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/1.webp",
                     "emojis": [
                         "☕",
                         "🙂"
                     ]
                 },
                 {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/04682ecfe91bfe78d7ae13dd6fd5e19c/22.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/2.webp",
                     "emojis": [
                         "😄",
                         "😀"
                     ]
                 },
                 {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/aecbb617560b147c8158ecf4faa3b1c6/33.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/3.webp",
                     "emojis": [
                         "😆",
                         "😂"
                     ]
                 },
                 {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/10ff2006a44af786b6e5076cad5a0670/44.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/4.webp",
                     "emojis": [
                         "😩",
                         "😰"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/a38c98f19f392ec0f380686344cdd6d7/11.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/04682ecfe91bfe78d7ae13dd6fd5e19c/22.webp",
-                    "emojis": [
-                        "😍",
-                        "♥"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/aecbb617560b147c8158ecf4faa3b1c6/33.webp",
-                    "emojis": [
-                        "💔",
-                        "👎"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/10ff2006a44af786b6e5076cad5a0670/44.webp",
-                    "emojis": [
-                        "😍",
-                        "💑"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/a38c98f19f392ec0f380686344cdd6d7/11.webp",
-                    "emojis": [
-                        "😘",
-                        "🍪"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/04682ecfe91bfe78d7ae13dd6fd5e19c/22.webp",
-                    "emojis": [
-                        "🤔",
-                        "😐"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/aecbb617560b147c8158ecf4faa3b1c6/33.webp",
-                    "emojis": [
-                        "😱",
-                        "😵"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/10ff2006a44af786b6e5076cad5a0670/44.webp",
-                    "emojis": [
-                        "😡",
-                        "😠"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/a38c98f19f392ec0f380686344cdd6d7/11.webp",
-                    "emojis": [
-                        "❓",
-                        "🤔"
                     ]
                 }
             ]
         },
         {
             "identifier": "2",
-            "name": "Emoji",
+            "name": "i am",
             "publisher": "Mr.Sticker",
-            "tray_image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/b520934d433071370a9fe84e72769a29/icon.png",
+            "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/2/1.png",
             "image_data_version": "1",
             "avoid_cache": false,
             "publisher_email": "",
@@ -119,7 +56,7 @@
             "license_agreement_website": "",
             "animated_sticker_pack": false,
             "stickers": [{
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/a38c98f19f392ec0f380686344cdd6d7/11.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/1.webp",
                     "emojis": [
                         "🥰",
                         "😘",
@@ -127,7 +64,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/04682ecfe91bfe78d7ae13dd6fd5e19c/22.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/2.webp",
                     "emojis": [
                         "✊",
                         "💪",
@@ -135,7 +72,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/aecbb617560b147c8158ecf4faa3b1c6/33.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/3.webp",
                     "emojis": [
                         "❤️",
                         "🥰",
@@ -143,7 +80,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/10ff2006a44af786b6e5076cad5a0670/44.webp",
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/4.webp",
                     "emojis": [
                         "🖐",
                         "🙌",
