@@ -3,7 +3,7 @@
     "ios_app_store_link": "https://play.google.com/store/apps/details?id=com.zeptoa.whatsappstickers",
     "sticker_packs": [{
             "identifier": "1",
-            "name": "Malayalam Dilaog1",
+            "name": "Malayalam",
             "publisher": "Zeptoa",
             "tray_image_file": "https://raw.githubusercontent.com/samplethunkable/localb1/b520934d433071370a9fe84e72769a29/icon.png",
             "image_data_version": "1",
