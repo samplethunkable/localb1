@@ -88,6 +88,52 @@
                     ]
                 }
             ]
+        },
+        {
+            "identifier": "2",
+            "name": "TEST 2",
+            "publisher": "Mr.Sticker",
+            "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/3/1.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "",
+            "publisher_website": "",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [{
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/1.webp",
+                    "emojis": [
+                        "🥰",
+                        "😘",
+                        "❤️"
+                    ]
+                },
+                {
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/2.webp",
+                    "emojis": [
+                        "✊",
+                        "💪",
+                        "🙏"
+                    ]
+                },
+                {
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/3.webp",
+                    "emojis": [
+                        "❤️",
+                        "🥰",
+                        "💕"
+                    ]
+                },
+                {
+                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/4.webp",
+                    "emojis": [
+                        "🖐",
+                        "🙌",
+                        "✋"
+                    ]
+                }
+            ]
         }
     
     ]
