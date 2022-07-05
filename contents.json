@@ -5,7 +5,7 @@
             "identifier": "1",
             "name": "TEST 1",
             "publisher": "Mr.Sticker",
-            "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/1/1.png",
+            "tray_image_file": "https://www.cloud/wp-content/sticker/1/1.png",
             "image_data_version": "1",
             "avoid_cache": false,
             "publisher_email": "",
@@ -14,28 +14,28 @@
             "license_agreement_website": "",
             "animated_sticker_pack": false,
             "stickers": [{
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/1.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/1/1.webp",
                     "emojis": [
                         "☕",
                         "🙂"
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/2.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/1/2.webp",
                     "emojis": [
                         "😄",
                         "😀"
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/3.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/1/3.webp",
                     "emojis": [
                         "😆",
                         "😂"
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/1/4.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/1/4.webp",
                     "emojis": [
                         "😩",
                         "😰"
@@ -47,7 +47,7 @@
             "identifier": "2",
             "name": "TEST 2",
             "publisher": "Mr.Sticker",
-            "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/2/1.png",
+            "tray_image_file": "https://www.cloud.com/wp-content/sticker/2/1.png",
             "image_data_version": "1",
             "avoid_cache": false,
             "publisher_email": "",
@@ -56,7 +56,7 @@
             "license_agreement_website": "",
             "animated_sticker_pack": false,
             "stickers": [{
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/1.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/2/1.webp",
                     "emojis": [
                         "🥰",
                         "😘",
@@ -64,7 +64,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/2.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/2/2.webp",
                     "emojis": [
                         "✊",
                         "💪",
@@ -72,7 +72,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/3.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/2/3.webp",
                     "emojis": [
                         "❤️",
                         "🥰",
@@ -80,7 +80,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/2/4.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/2/4.webp",
                     "emojis": [
                         "🖐",
                         "🙌",
@@ -93,7 +93,7 @@
             "identifier": "3",
             "name": "TEST 4",
             "publisher": "Mr.Sticker",
-            "tray_image_file": "https://www.gxfreee.com/wp-content/sticker/3/1.png",
+            "tray_image_file": "https://www.cloud.com/wp-content/sticker/3/1.png",
             "image_data_version": "1",
             "avoid_cache": false,
             "publisher_email": "",
@@ -102,7 +102,7 @@
             "license_agreement_website": "",
             "animated_sticker_pack": true,
             "stickers": [{
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/1.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/3/1.webp",
                     "emojis": [
                         "🥰",
                         "😘",
@@ -110,7 +110,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/2.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/3/2.webp",
                     "emojis": [
                         "✊",
                         "💪",
@@ -118,7 +118,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/3.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/3/3.webp",
                     "emojis": [
                         "❤️",
                         "🥰",
@@ -126,7 +126,7 @@
                     ]
                 },
                 {
-                    "image_file": "https://www.gxfreee.com/wp-content/sticker/3/4.webp",
+                    "image_file": "https://www.cloud.com/wp-content/sticker/3/4.webp",
                     "emojis": [
                         "🖐",
                         "🙌",
